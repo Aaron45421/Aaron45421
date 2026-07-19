@@ -35,7 +35,7 @@
 const aaron = {
     pronouns: "he" | "him",
     role: "Founder & Lead Developer",
-    company: "Tamizha Productions Scripters",
+    company: "Build Right's Studios",
     education: "BCA — Cyber Security",
     
     code: ["Lua", "JavaScript", "TypeScript", "Python", "SQL"],
