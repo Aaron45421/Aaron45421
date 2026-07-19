@@ -12,17 +12,17 @@
 
 <!-- SOCIAL BADGES -->
 [![Gmail](https://img.shields.io/badge/Gmail-aaronwilliams.ja-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronwilliams.ja@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aaron45421-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaron45421)
+[![GitHub](https://img.shields.io/badge/GitHub-AaronWilliamsJA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaronWilliamsJA)
 [![Discord](https://img.shields.io/badge/Discord-Tamizha_Productions-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF4B4B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/aaron45421)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF4B4B?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://github.com/AaronWilliamsJA)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=aaron45421&label=Profile+Views&color=FF4B4B&style=flat-square&abbreviated=true" />
+<img src="https://komarev.com/ghpvc/?username=AaronWilliamsJA&label=Profile+Views&color=FF4B4B&style=flat-square&abbreviated=true" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/aaron45421?label=Followers&style=flat-square&color=FF4B4B&labelColor=1a1a2e" />
+<img src="https://img.shields.io/github/followers/AaronWilliamsJA?label=Followers&style=flat-square&color=FF4B4B&labelColor=1a1a2e" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/aaron45421?label=Total+Stars&style=flat-square&color=FF4B4B&labelColor=1a1a2e&affiliations=OWNER" />
+<img src="https://img.shields.io/github/stars/AaronWilliamsJA?label=Total+Stars&style=flat-square&color=FF4B4B&labelColor=1a1a2e&affiliations=OWNER" />
 
 </div>
 
@@ -211,17 +211,17 @@ const aaron = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaron45421&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&icon_color=FF6B35&text_color=c9d1d9&ring_color=FF4B4B" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaron45421&theme=radical&hide_border=true&background=0d1117&stroke=FF4B4B&ring=FF4B4B&fire=FFA500&currStreakLabel=FF6B35&sideLabels=FF4B4B&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaronWilliamsJA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&icon_color=FF6B35&text_color=c9d1d9&ring_color=FF4B4B" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaronWilliamsJA&theme=radical&hide_border=true&background=0d1117&stroke=FF4B4B&ring=FF4B4B&fire=FFA500&currStreakLabel=FF6B35&sideLabels=FF4B4B&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron45421&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronWilliamsJA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4B4B&text_color=c9d1d9&langs_count=8" />
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaron45421&custom_title=Aaron's%20Contribution%20Graph&bg_color=0d1117&color=FF4B4B&line=FF6B35&point=FFA500&area_color=FF4B4B&area=true&hide_border=true&title_color=FF4B4B" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AaronWilliamsJA&custom_title=Aaron's%20Contribution%20Graph&bg_color=0d1117&color=FF4B4B&line=FF6B35&point=FFA500&area_color=FF4B4B&area=true&hide_border=true&title_color=FF4B4B" />
 
 </div>
 
@@ -232,7 +232,7 @@ const aaron = {
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=aaron45421&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=AaronWilliamsJA&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -275,9 +275,9 @@ Whether it's a FiveM server, a real-time platform, or a security-hardened infras
 
 <!-- SNAKE ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaron45421/aaron45421/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaron45421/aaron45421/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aaron45421/aaron45421/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaronWilliamsJA/AaronWilliamsJA/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaronWilliamsJA/AaronWilliamsJA/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AaronWilliamsJA/AaronWilliamsJA/output/github-snake-dark.svg" />
 </picture>
 
 <br/><br/>
